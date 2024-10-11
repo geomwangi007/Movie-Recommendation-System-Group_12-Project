@@ -1,18 +1,36 @@
 # The Flick Pick Engine
 
 ## Table of Contents
-1. [Intelligent Movie Recommendations with Neural Networks and NLP]_(#Intelligent Movie Recommendations with Neural Networks and NLP).
-2. [Author](#author-maureen-wanjeri-august-2024)
+1. [Intelligent Movie Recommendations with Neural Networks and NLP](#intelligent-movie-recommendations-with-neural-networks-and-nlp)
+2. [Author](#author-dsfpt07-group-12)
 3. [Overview](#overview)
-4. [Business Problem](#business-problem)
-5. [Data Understanding](#data-understanding)
-   - [Datasets](#datasets)
-   - [Key Steps in Data Understanding](#key-steps-in-data-understanding)
+4. [Problem Statement](#problem-statement)
+5. [Data Understanding](#data-understanding) 
+   - [Data Sources](#data-sources)
+   - [Key Steps in Data Understanding](*key-steps-in-data-understanding)
 6. [Data Preparation](#data-preparation)
-7. [Modeling](#modeling)
+7. [Modelling](#modelling)
+   - [Model Evaluation](#model-evaluation)
+8. [Model Tuning](#model-tuning)
+   - [Tuned Model Evaluation](#tuned-model-evaluation)
+9. [Conclusion](#conclusion)
+10. [Recommendations](#recommendations)
+11. [Possible next steps](#possible-next-steps)
+12. [For more information](#for-more-information)
+13. [Repository Structure](#repository-structure)
 
 # Intelligent Movie Recommendations with Neural Networks and NLP
 ![alt text](image-4.png)
+
+### Author: DSFPT07 Group 12
+- Branely Ope
+- Brian Kipngetich
+- Cynthia Atieno
+- Geoffrey Mwangi
+- Linet Maz'susa
+- Maureen Wanjeri
+- Mercy Silali
+
 ## Overview
 
 ## Problem Statement
