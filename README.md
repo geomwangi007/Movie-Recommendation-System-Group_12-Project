@@ -1,5 +1,6 @@
 # The Flick Pick Engine
 # "Intelligent Movie Recommendations with Neural Networks and NLP"
+![alt text](image-4.png)
 ## Problem Statement
 In today's digital age, the sheer volume of available movies has grown exponentially, leading to an overwhelming choice paralysis for viewers seeking content that aligns with their personal tastes. Traditional recommendation systems often fall short by providing generic suggestions based on popularity or simplistic user behaviors, failing to capture the nuanced preferences of individual users. This lack of personalization results in a suboptimal viewing experience, where users spend more time searching for movies than enjoying them.
 
