@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Intelligent Movie Recommendations with Neural Networks and NLP](#intelligent-movie-recommendations-with-neural-networks-and-nlp)
-2. [Author](#author-dsfpt07-group-12)
+2. [Author](#author-dsfpt07-phase-4-group-12)
 3. [Overview](#overview)
 4. [Problem Statement](#problem-statement)
 5. [Data Understanding](#data-understanding) 
@@ -22,7 +22,7 @@
 # Intelligent Movie Recommendations with Neural Networks and NLP
 ![alt text](image-4.png)
 
-### Author: DSFPT07 Group 12
+### Author: DSFPT07 Phase 4 Group 12
 - Branely Ope
 - Brian Kipngetich
 - Cynthia Atieno
