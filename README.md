@@ -117,7 +117,7 @@ Each cell indicates a user's rating for a specific movie, with colors ranging fr
 4. Train-Test Split:
    - The dataset is split into training and testing sets to ensure proper model evaluation.
 ## Modelling
-Two main models used in this recommendation system:
+Two main models used in this recommendation system are:
 
 1. Collaborative Filtering:
    - User-based Collaborative Filtering: Recommends movies to users based on similarities with other users.
